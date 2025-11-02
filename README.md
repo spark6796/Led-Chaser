@@ -1,2 +1,2 @@
 # Led-Chaser
-![PCB pic](Capture.PNG)
+![PCB pic v2](Capture.PNG)
